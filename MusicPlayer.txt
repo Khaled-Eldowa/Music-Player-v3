@@ -1,0 +1,263 @@
+3
+2
+Luna
+1992
+1
+1
+Luna
+Luna@NASA.com
+3
+Ganymede
+1992
+1
+1
+Ganymede
+Ganymede@NASA.com
+4
+Titan
+1992
+1
+1
+Titan
+Titan@NASA.com
+2
+0
+Trivium
+1999
+1
+1
+Heavy Metal
+1
+In Vain
+2003
+1
+1
+Melodic Death Metal
+6
+0
+Shogun
+Heavy Metal
+2008
+9
+30
+0
+1
+The Sin and the Sentence
+Heavy Metal
+2017
+10
+17
+0
+2
+Silence in the Snow
+Heavy Metal
+2015
+10
+2
+0
+3
+Currents
+Melodic Death Metal
+2018
+1
+26
+1
+4
+Aenigma
+Melodic Death Metal
+2013
+3
+11
+1
+5
+Mantra
+Melodic Death Metal
+2010
+1
+18
+1
+18
+0
+Kirisute Gomen
+Heavy Metal
+2008
+9
+30
+0
+0
+1
+Down From the Sky
+Heavy Metal
+2008
+9
+30
+0
+0
+2
+Insurrection
+Heavy Metal
+2008
+9
+30
+0
+0
+3
+Beyond Oblivion
+Heavy Metal
+2017
+10
+17
+1
+0
+4
+Sever the Hand
+Heavy Metal
+2017
+10
+17
+1
+0
+5
+Thrown into the Fire
+Heavy Metal
+2017
+10
+17
+1
+0
+6
+Blind Leading the Blind
+Heavy Metal
+2015
+10
+2
+2
+0
+7
+Pull Me from the Void
+Heavy Metal
+2015
+10
+2
+2
+0
+8
+Until the World Goes Cold
+Heavy Metal
+2015
+10
+2
+2
+0
+9
+Seekers of the Truth
+Melodic Death Metal
+2018
+1
+26
+3
+1
+10
+Origin
+Melodic Death Metal
+2018
+1
+26
+3
+1
+11
+As the Black Horde Storms
+Melodic Death Metal
+2018
+1
+26
+3
+1
+12
+Against the Grain
+Melodic Death Metal
+2013
+3
+11
+4
+1
+13
+Image of Time
+Melodic Death Metal
+2013
+3
+11
+4
+1
+14
+To the Core
+Melodic Death Metal
+2013
+3
+11
+4
+1
+15
+Captivating Solitude
+Melodic Death Metal
+2010
+1
+18
+5
+1
+16
+Dark Prophets, Black Hearts
+Melodic Death Metal
+2010
+1
+18
+5
+1
+17
+Wayakin
+Melodic Death Metal
+2010
+1
+18
+5
+1
+3
+0
+First Mix
+2
+2018
+10
+15
+6
+0
+3
+6
+9
+12
+15
+1
+Second Mix
+3
+2018
+10
+16
+6
+1
+4
+7
+10
+13
+16
+2
+Third Mix
+4
+2018
+10
+17
+6
+2
+5
+8
+11
+14
+17
