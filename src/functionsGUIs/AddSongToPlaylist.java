@@ -16,7 +16,6 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 import javax.swing.border.EmptyBorder;
 
 import app.Backend;
-import app.MainMenu;
 import app.Message;
 import componentsV2.Playlist;
 import componentsV2.Song;
@@ -24,6 +23,7 @@ import exceptions.EmptyFieldException;
 import exceptions.PlaylistNotFoundException;
 import exceptions.SongAlreadyAddedException;
 import exceptions.SongNotFoundException;
+import mainApp.MainMenu;
 
 public class AddSongToPlaylist extends JFrame {
 

@@ -21,7 +21,6 @@ import javax.swing.border.EmptyBorder;
 
 import app.AuxillaryReturnSong;
 import app.Backend;
-import app.MainMenu;
 import app.Message;
 import componentsV2.Album;
 import componentsV2.Playlist;
@@ -30,6 +29,7 @@ import componentsV2.User;
 import exceptions.AlbumNotFoundException;
 import exceptions.EmptyFieldException;
 import exceptions.UserNotFoundException;
+import mainApp.MainMenu;
 
 public class AddPlaylist extends JFrame {
 

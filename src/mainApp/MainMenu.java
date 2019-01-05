@@ -1,4 +1,4 @@
-package app;
+package mainApp;
 
 import java.awt.EventQueue;
 
@@ -9,6 +9,9 @@ import javax.swing.JScrollPane;
 import javax.swing.JLabel;
 import javax.swing.LayoutStyle.ComponentPlacement;
 
+import app.Backend;
+import app.Storer;
+import app.outputTable;
 import componentsV2.Song;
 import componentsV2.User;
 import functionsGUIs.AddArtist;

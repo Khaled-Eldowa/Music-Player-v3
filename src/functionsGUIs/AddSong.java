@@ -20,7 +20,6 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 import javax.swing.border.EmptyBorder;
 
 import app.Backend;
-import app.MainMenu;
 import app.Message;
 import componentsV2.Album;
 import componentsV2.Playlist;
@@ -28,6 +27,7 @@ import componentsV2.Song;
 import componentsV2.User;
 import exceptions.AlbumNotFoundException;
 import exceptions.EmptyFieldException;
+import mainApp.MainMenu;
 
 public class AddSong extends JFrame {
 

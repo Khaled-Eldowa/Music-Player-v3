@@ -8,11 +8,11 @@ import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
 import app.Backend;
-import app.MainMenu;
 import app.Message;
 import componentsV2.User;
 import exceptions.EmptyFieldException;
 import exceptions.UserNotFoundException;
+import mainApp.MainMenu;
 
 import javax.swing.GroupLayout;
 import javax.swing.GroupLayout.Alignment;

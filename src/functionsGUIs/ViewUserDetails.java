@@ -16,11 +16,11 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 import javax.swing.border.EmptyBorder;
 
 import app.Backend;
-import app.MainMenu;
 import app.Message;
 import app.outputTable;
 import componentsV2.User;
 import exceptions.UserNotFoundException;
+import mainApp.MainMenu;
 
 public class ViewUserDetails extends JFrame {
 

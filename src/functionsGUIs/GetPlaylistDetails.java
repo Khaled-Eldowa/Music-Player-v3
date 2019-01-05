@@ -17,7 +17,6 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 import javax.swing.border.EmptyBorder;
 
 import app.Backend;
-import app.MainMenu;
 import app.Message;
 import app.outputTable;
 import componentsV2.Playlist;
@@ -25,6 +24,7 @@ import componentsV2.Song;
 import componentsV2.User;
 import exceptions.PlaylistNotFoundException;
 import exceptions.UserNotFoundException;
+import mainApp.MainMenu;
 
 public class GetPlaylistDetails extends JFrame {
 

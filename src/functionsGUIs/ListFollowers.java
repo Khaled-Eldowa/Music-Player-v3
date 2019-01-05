@@ -17,7 +17,6 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 import javax.swing.border.EmptyBorder;
 
 import app.Backend;
-import app.MainMenu;
 import app.Message;
 import app.outputTable;
 import componentsV2.Person;
@@ -27,6 +26,7 @@ import componentsV2.User;
 import exceptions.PersonNotFoundException;
 import exceptions.PlaylistNotFoundException;
 import exceptions.UserNotFoundException;
+import mainApp.MainMenu;
 
 public class ListFollowers extends JFrame {
 

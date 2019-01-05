@@ -16,7 +16,6 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 import javax.swing.border.EmptyBorder;
 
 import app.Backend;
-import app.MainMenu;
 import app.Message;
 import componentsV2.Playlist;
 import componentsV2.Song;
@@ -25,6 +24,7 @@ import exceptions.EmptyFieldException;
 import exceptions.PlaylistNotFoundException;
 import exceptions.SongNotFoundException;
 import exceptions.UserNotFoundException;
+import mainApp.MainMenu;
 
 public class DeletePlaylist extends JFrame {
 

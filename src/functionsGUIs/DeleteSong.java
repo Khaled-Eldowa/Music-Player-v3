@@ -16,13 +16,13 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 import javax.swing.border.EmptyBorder;
 
 import app.Backend;
-import app.MainMenu;
 import app.Message;
 import componentsV2.Song;
 import componentsV2.User;
 import exceptions.EmptyFieldException;
 import exceptions.SongNotFoundException;
 import exceptions.UserNotFoundException;
+import mainApp.MainMenu;
 
 public class DeleteSong extends JFrame {
 
